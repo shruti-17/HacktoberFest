@@ -8,7 +8,7 @@ int main()
 	printf("Enter the elements");
 	for(i=0;i<n;i++)
 	{
-		scanf("%d",&a[i]);
+		scanf("%d",&a[i]);  //to enter elements in array.
 	}
 	for(i=0;i<n;i++)
 	{
